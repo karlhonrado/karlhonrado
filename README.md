@@ -1,7 +1,12 @@
-### Hi there 👋
+### 👋 Hi! Karl John Honrado here, and welcome to my Advisr github profile. 
+
+<!-- 🔭 I’m currently working on an e-commerce project.
+- 🌱 I’m currently learning AWS and programming best practices and design patterns.-->
+
+-	:construction: I’m currently working on a multi tenancy insurtech platform.
 
 <!--
-**karlhonrado/karlhonrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**honradokarl/honradokarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
