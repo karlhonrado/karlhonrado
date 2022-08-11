@@ -1,3 +1,5 @@
+![dino](https://user-images.githubusercontent.com/91655267/184050040-a872e4b8-b6e7-4708-8fa6-416eb8913521.gif)
+
 ### 👋 Hi! Karl John Honrado here, and welcome to my Advisr github profile. 
 
 <!-- 🔭 I’m currently working on an e-commerce project.
