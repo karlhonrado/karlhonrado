@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning AWS and programming best practices and design patterns.-->
 
 -	:construction: I’m currently working on a multi tenancy insurtech platform.
+- 🌱 I’m currently learning AWS and programming best practices and design patterns.
+
+[![wakatime](https://wakatime.com/badge/user/c093ad25-4561-4bae-8a24-e78bf0a52ac2.svg)](https://wakatime.com/@c093ad25-4561-4bae-8a24-e78bf0a52ac2)
 
 <!--
 **honradokarl/honradokarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
