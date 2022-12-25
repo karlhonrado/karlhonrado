@@ -8,8 +8,6 @@
 -	:construction: I’m currently working on a multi tenancy insurtech platform.
 - 🌱 I’m currently learning AWS and programming best practices and design patterns.
 
-<a href="https://app.daily.dev/advisrkarl"><img src="https://api.daily.dev/devcards/22d34a42353d489788c946759fee6f6b.png?r=w9z" width="400" alt="Karl John Honrado's Dev Card"/></a>
-
 ![](https://komarev.com/ghpvc/?username=honradokarl&color=green)
 
 [![wakatime](https://wakatime.com/badge/user/c093ad25-4561-4bae-8a24-e78bf0a52ac2.svg)](https://wakatime.com/@c093ad25-4561-4bae-8a24-e78bf0a52ac2)
@@ -19,6 +17,8 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=honradokarl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honradokarl&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true&layout=compact)
+
+<a href="https://app.daily.dev/advisrkarl"><img src="https://api.daily.dev/devcards/22d34a42353d489788c946759fee6f6b.png?r=w9z" width="400" alt="Karl John Honrado's Dev Card"/></a>
 
 <!--
 **honradokarl/honradokarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
