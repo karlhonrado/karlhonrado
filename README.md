@@ -2,7 +2,7 @@
 
 ### 👋 Hi! Karl Honrado here, and welcome to my github profile. 
 
-I'm a Full-Stack developer ghost from [Ciudad de Cebu](https://en.wikipedia.org/wiki/Cebu_City), Philippines.
+I'm a Full-Stack developer from [Ciudad de Cebu](https://en.wikipedia.org/wiki/Cebu_City), Philippines.
 
 - Currently, I'm a Full Stack Developer at [AdvisrME](https://advisr.me/)
   -	:construction: actively working on a multi tenancy insurtech platform.
