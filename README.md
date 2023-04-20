@@ -18,8 +18,6 @@ I'm a Full-Stack developer from [Ciudad de Cebu](https://en.wikipedia.org/wiki/C
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honradokarl&show_icons=true&theme=solarized-dark&include_all_commits=true&count_private=true&layout=compact)
 
-<a href="https://app.daily.dev/advisrkarl"><img src="https://api.daily.dev/devcards/22d34a42353d489788c946759fee6f6b.png?r=w9z" width="400" alt="Karl John Honrado's Dev Card"/></a>
-
 <!--
 **honradokarl/honradokarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
